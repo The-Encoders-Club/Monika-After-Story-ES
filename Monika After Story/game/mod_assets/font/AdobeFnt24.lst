@@ -1,0 +1,141 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SourceHanSansK-Regular
+FamilyName:Source Han Sans K
+StyleName:Regular
+FullName:Source Han Sans K
+MenuName:Source Han Sans K
+StyleBits:0
+FamilyNameNative:본고딕
+StyleNameNative:Regular
+FullNameNative:본고딕 Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\Admin\Desktop\MAS 0.12.17\Monika_After_Story-0.12.17-Mod - Español\game\mod_assets\Font\SourceHanSansK-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:17277104
+FileModTime:1630296348
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Source Han Sans K
+NameArray:3,Win,1,본고딕
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SourceHanSansSC-Regular
+FamilyName:Source Han Sans SC
+StyleName:Regular
+FullName:Source Han Sans SC
+MenuName:Source Han Sans SC
+StyleBits:0
+FamilyNameNative:思源黑体
+StyleNameNative:Regular
+FullNameNative:思源黑体 Regular
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\Admin\Desktop\MAS 0.12.17\Monika_After_Story-0.12.17-Mod - Español\game\mod_assets\Font\SourceHanSansSC-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:17281372
+FileModTime:1630296348
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Source Han Sans SC
+NameArray:25,Win,1,思源黑体
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Journal
+FamilyName:Journal
+StyleName:Regular
+FullName:Journal
+MenuName:Journal
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\MAS 0.12.17\Monika_After_Story-0.12.17-Mod - Español\game\mod_assets\Font\m1_fixed.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:130412
+FileModTime:1630296348
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Journal
+NameArray:0,Win,1,Journal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:mplus-1mn-medium
+FamilyName:M+ 1mn
+StyleName:medium
+FullName:M+ 1mn medium
+MenuName:M+ 1mn medium
+StyleBits:0
+FamilyNameNative:M+ 1mn
+StyleNameNative:medium
+FullNameNative:M+ 1mn medium
+WritingScript:Japanese
+OutlineFileName:C:\Users\Admin\Desktop\MAS 0.12.17\Monika_After_Story-0.12.17-Mod - Español\game\mod_assets\Font\mplus-1mn-medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1615236
+FileModTime:1550438894
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,M+ 1mn medium
+NameArray:0,Win,1,M+ 1mn medium
+NameArray:0,Win,16,M+ 1mn
+NameArray:1,Win,16,M+ 1mn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:mplus-2p-regular
+FamilyName:M+ 2p
+StyleName:regular
+FullName:M+ 2p
+MenuName:M+ 2p
+StyleBits:0
+FamilyNameNative:M+ 2p
+StyleNameNative:regular
+FullNameNative:M+ 2p regular
+WritingScript:Japanese
+OutlineFileName:C:\Users\Admin\Desktop\MAS 0.12.17\Monika_After_Story-0.12.17-Mod - Español\game\mod_assets\Font\mplus-2p-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1745776
+FileModTime:1550438894
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,M+ 2p
+NameArray:0,Win,1,M+ 2p
+NameArray:0,Win,16,M+ 2p
+NameArray:1,Win,16,M+ 2p
+%EndFont
+
