@@ -1,4 +1,4 @@
-# Código de Conducta de Contributor Covenant
+# Código de conducta del Convenio de Colaboradores
 
 ## Nuestro Compromiso
 
